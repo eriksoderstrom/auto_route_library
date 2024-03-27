@@ -21,10 +21,10 @@ dependencies:
   glob: ^2.0.1
   package_config: ^2.1.0
   auto_route:
-  git:
-    url: https://github.com/eriksoderstrom/auto_route_library.git
-    path: auto_route
-    ref: master
+    git:
+      url: https://github.com/eriksoderstrom/auto_route_library.git
+      path: auto_route
+      ref: master
 
 dev_dependencies:
   lints: ^3.0.0
